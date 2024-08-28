@@ -17,12 +17,6 @@ Datasets: Datasets used for training generative models.
 
 Scripts: Python scripts for training and evaluating generative AI models.
 
-**Getting Started**
-
-Clone the Repository: To get started, clone this repository to your local machine using:
-
-git clone https://github.com/YourUsername/Generative-AI.git
-
 Set Up Your Environment: Install the required libraries and dependencies.
 
 Use pip or conda to set up your environment. Common libraries for generative AI include:
